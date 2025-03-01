@@ -31,3 +31,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-include-cache
+# 禁用 GitHub Pages 的默认页脚
+footer:
+  enabled: false
