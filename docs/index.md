@@ -27,4 +27,4 @@ title: 我的博客
 - [我的第一篇博客](posts/2023-10-09-my-first-blog.html)
 - [我的第一篇博客](posts/2023-10-09-my-first-blog.md)
 - [我的第一篇博客](_posts/2023-10-09-my-first-blog.md)
-- [我的第一篇博客](_posts/2023-10-09-my-two-blog.md)
+- [我的第二篇](_posts/2023-10-09-my-two-blog.md)
