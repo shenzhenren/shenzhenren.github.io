@@ -14,3 +14,14 @@
 ----------
 746547763
 kgjkdfjglsjsdlkgjsdfg 
+---
+layout: default
+title: 我的博客
+---
+
+## 欢迎来到我的博客
+
+这是我的 GitHub Pages 博客。
+
+### 最新文章
+- [我的第一篇博客](2023/10/09/my-first-blog.html)
