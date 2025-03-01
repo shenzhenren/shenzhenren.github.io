@@ -24,4 +24,4 @@ title: 我的博客
 这是我的 GitHub Pages 博客。
 
 ### 最新文章
-- [我的第一篇博客](posts/2023/10/09/my-first-blog.html)
+- [我的第一篇博客](posts/2023-10-09-my-first-blog.html)
