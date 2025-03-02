@@ -1,1 +1,6 @@
+title: My Blog
+description: A blog about tech and programming
+author: Your Name
 show_downloads: false
+theme: minima
+repository: ""
