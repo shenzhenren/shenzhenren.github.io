@@ -10,4 +10,4 @@
 
 
 联系方式：18617184365
-![123](https://github.com/shenzhenren/shenzhenren.github.io/blob/8df4571c626a715ce66bfb838d2d07af7c343901/image/Pasted%20image%2020241109151437.png|100)
+![123](https://github.com/shenzhenren/shenzhenren.github.io/blob/8df4571c626a715ce66bfb838d2d07af7c343901/image/Pasted%20image%2020241109151437.png))
