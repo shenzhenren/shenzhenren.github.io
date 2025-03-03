@@ -10,4 +10,4 @@
 
 
 联系方式：18617184365
-![Alt text](https://github.com/shenzhenren/shenzhenren.github.io/blob/main/image/Pasted%20image%2020241109151437.png?raw=true)
+![Alt text](https://www.keaitupian.cn/cjpic/frombd/2/253/813118995/3510177746.jpg)
